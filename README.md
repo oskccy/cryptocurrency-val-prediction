@@ -1,5 +1,5 @@
 # Cryptocurrency val prediction
-> By: Oscar
+> By: Oscar Sharaz Spencer
 ## Index
 
 1. [Introduction](#introduction)
