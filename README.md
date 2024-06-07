@@ -1,19 +1,19 @@
 # Cryptocurrency val prediction
 > By: Oscar Sharaz Spencer
-## Index
-
-1. [Introduction](#introduction)
-2. [Requirements Installation](#requirements-installation)
-3. [Project Structure](#project-structure)
-4. [Usage Instructions](#usage-instructions)
-5. [Customization](#customization)
-6. [Contributions](#contributions)
-
+> 
 ## Introduction
 
 > This project demonstrates historical predictions of the price of a cryptocurrency against an "against currency" using a multi-layered LSTM neural network. The project is heavily modular, with different components for data loading, preprocessing, model building, training, prediction, and plotting. Plotting is done dynamically for visualization aid of predictions.
 
 > Furthermore, percent error is calculated throughout each prediction value, based on the prediction data, and the real ticker data.
+> 
+## Index
+
+1. [Requirements Installation](#requirements-installation)
+2. [Project Structure](#project-structure)
+3. [Usage Instructions](#usage-instructions)
+4. [Customization](#customization)
+5. [Contributions](#contributions)
 
 ## Requirements Installation
 
