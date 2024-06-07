@@ -1,5 +1,5 @@
 # Cryptocurrency val prediction
-
+> By: Oscar
 ## Index
 
 1. [Introduction](#introduction)
