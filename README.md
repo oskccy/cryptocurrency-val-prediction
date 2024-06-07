@@ -1,4 +1,4 @@
-# Cryptocurrency val prediction
+# Cryptocurrency Value Prediction
 > By: Oscar Sharaz Spencer
 > 
 ## Introduction
