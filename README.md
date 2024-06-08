@@ -22,7 +22,7 @@ To get started with this project, you need to install the required packages. Fol
 1. **Create a virtual environment (optional but recommended)**:
     ```bash
     python -m venv venv
-    source venv/bin/activate  # On Windows, use `venv\Scriptsctivate`
+    source venv/bin/activate  # On Windows, use `venv\ScriptsActivate`
     ```
 
 2. **Install the required packages**:
