@@ -1,5 +1,5 @@
 # Cryptocurrency Value Prediction
-> By: Oscar Sharaz Spencer
+> By: [Oscar Sharaz Spencer](https://www.linkedin.com/in/oscar-sharaz/)
 > 
 ## Introduction
 
