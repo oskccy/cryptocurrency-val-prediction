@@ -1,4 +1,4 @@
-# Cryptocurrency Value Prediction
+# Cryptocurrency Value Prediction 📈
 > By: [Oscar Sharaz Spencer](https://www.linkedin.com/in/oscar-sharaz/)
 > 
 ## Introduction
